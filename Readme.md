@@ -1,9 +1,9 @@
-To run the application 
+To run the application
 
 Install the client dependencies and server dependencies
 
 from root of the folder run -
-cd client 
+cd client
 npm install
 
 from root of the folder run -
